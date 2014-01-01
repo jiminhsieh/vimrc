@@ -75,8 +75,8 @@ set tm=500
 
 " TAB setting{
    set expandtab        "replace <TAB> with spaces
-   set softtabstop=3 
-   set shiftwidth=3 
+   set softtabstop=8 
+   set shiftwidth=8 
 
    au FileType Makefile set noexpandtab
 "}      							
